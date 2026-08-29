@@ -1,0 +1,10 @@
+{
+  "name": "Remix Weather Intelligence App_Deploy",
+  "description": "A production-ready weather intelligence dashboard featuring real-time global city search, 7-day forecasts, hourly trends, and actionable outdoor activity recommendations powered by Open-Meteo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
